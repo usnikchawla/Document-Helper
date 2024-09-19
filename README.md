@@ -65,5 +65,3 @@ To run tests, run the following command
 ```bash
   pipenv run pytest .
 ```
-
-ogo=twitter&logoColor=white)](https://www.udemy.com/user/eden-marco/)
